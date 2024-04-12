@@ -18,7 +18,7 @@ User = get_user_model()
 
 
 class TestRoutes(TestCase):
-    """Класс TestRoutes. Методы - это тесты, для проверки путей."""
+    """Класс. Методы - это тесты, для проверки путей."""
 
     @classmethod
     def setUpTestData(cls):
